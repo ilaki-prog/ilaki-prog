@@ -1,5 +1,8 @@
+
 ### Hi there 👋
-![Google_Cloud_DataAnalytics](https://user-images.githubusercontent.com/100082194/175823778-406a770a-4a10-4d82-8d40-9cbafa7ec1ab.gif)
+
+<img src="https://user-images.githubusercontent.com/100082194/176129334-f0873b53-0424-403a-911d-f34ad2d47d97.gif" width="3050" height="450">
+
 
 
 <h1 align="center">Hi 👋, I'm Illakkia</h1>
