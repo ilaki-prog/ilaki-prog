@@ -16,9 +16,6 @@ skills
 
 
 
-
-- 👨‍💻 All of my projects are available at [IBM data science](IBM data science)
-
 - 💬 Ask me about **data driven decisions**
 
 - 📫 How to reach me **illakkiaelumalai7@gmail.com**
