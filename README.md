@@ -9,7 +9,7 @@
 
 skills 
 
-![image](https://user-images.githubusercontent.com/100082194/175824072-ee845196-2d8e-4127-950d-219f3d6a1943.png) ![image](https://user-images.githubusercontent.com/100082194/175824146-55c56fe2-3416-443c-a4bc-9110eee61387.png) ![image](https://user-images.githubusercontent.com/100082194/175824185-3e61e5d1-e8c0-475c-b416-07795b3bd870.png)![image](https://user-images.githubusercontent.com/100082194/175824210-6a3122c6-fcdf-4726-9b78-4cb2a1d85dd6.png)![image](https://user-images.githubusercontent.com/100082194/175824219-3a5356e0-103a-4f76-a2eb-30f399e9048e.png)![image](https://user-images.githubusercontent.com/100082194/175824249-76a9c204-21f1-4e4f-9384-c6428c7844a6.png)
+<image src="https://user-images.githubusercontent.com/100082194/175824072-ee845196-2d8e-4127-950d-219f3d6a1943.png" width="48"> <image src="https://user-images.githubusercontent.com/100082194/175824146-55c56fe2-3416-443c-a4bc-9110eee61387.png" width="48"> <image src="https://user-images.githubusercontent.com/100082194/175824185-3e61e5d1-e8c0-475c-b416-07795b3bd870.png" width="48"> <image src="https://user-images.githubusercontent.com/100082194/175824210-6a3122c6-fcdf-4726-9b78-4cb2a1d85dd6.png" width="48"> <image src="https://user-images.githubusercontent.com/100082194/175824219-3a5356e0-103a-4f76-a2eb-30f399e9048e.png" width="48"> <image src="https://user-images.githubusercontent.com/100082194/175824249-76a9c204-21f1-4e4f-9384-c6428c7844a6.png" width="48">
 
 
 
