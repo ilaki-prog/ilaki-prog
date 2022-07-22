@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/100082194/176129334-f0873b53-0424-403a-911d-f34ad2d47d97.gif" width="3050" height="450">
+
 
 
 
